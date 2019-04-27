@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NUMBER SHAPES</string>
+    <string name="enter_the_number_and_check_it_is_square_number_triangel_number_or_armstrong_number">ENTER THE NUMBER AND CHECK IT IS SQUARE NUMBER,TRIANGEL NUMBER OR ARMSTRONG NUMBER</string>
+    <string name="check">CHECK</string>
+</resources>
